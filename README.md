@@ -1,6 +1,6 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+Show you weather for current location and also you can search weather for any location you want.
 
 ## Getting Started
 
